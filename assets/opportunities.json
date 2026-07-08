@@ -1,0 +1,125 @@
+{
+  "note": "Sample dataset for development. Organisations are fictitious; a curated real-world feed is on the roadmap.",
+  "opportunities": [
+    {
+      "id": "op-001",
+      "title": "Software Development Graduate Programme",
+      "organisation": "Ubuntu Digital",
+      "type": "graduateProgramme",
+      "province": "gauteng",
+      "field": "Software Development",
+      "description": "12-month rotational programme across mobile, web and cloud teams. Mentorship, real production work, permanent placement on completion.",
+      "closingDate": "2026-08-31"
+    },
+    {
+      "id": "op-002",
+      "title": "Junior Flutter Developer",
+      "organisation": "Kasi Apps",
+      "type": "juniorJob",
+      "province": "gauteng",
+      "field": "Software Development",
+      "description": "Build and maintain consumer mobile apps with a small product team. 0-2 years experience; a portfolio beats a degree.",
+      "closingDate": "2026-07-25"
+    },
+    {
+      "id": "op-003",
+      "title": "IT Support Learnership (NQF 5)",
+      "organisation": "Sizanani Skills Collective",
+      "type": "learnership",
+      "province": "kwaZuluNatal",
+      "field": "Information Technology",
+      "description": "12-month accredited learnership combining classroom training with workplace experience. Monthly stipend included.",
+      "closingDate": "2026-08-15"
+    },
+    {
+      "id": "op-004",
+      "title": "Data Analytics Internship",
+      "organisation": "Mzansi Insights",
+      "type": "internship",
+      "province": "westernCape",
+      "field": "Data & Analytics",
+      "description": "6-month internship working with real client datasets. SQL and spreadsheet skills required; Python a plus.",
+      "closingDate": "2026-07-20"
+    },
+    {
+      "id": "op-005",
+      "title": "Junior Network Technician",
+      "organisation": "Thola Connect",
+      "type": "juniorJob",
+      "province": "limpopo",
+      "field": "Information Technology",
+      "description": "Install and support fibre and wireless networks across the province. Driver's licence required, training provided.",
+      "closingDate": null
+    },
+    {
+      "id": "op-006",
+      "title": "Finance Graduate Programme",
+      "organisation": "Amanzi Financial Group",
+      "type": "graduateProgramme",
+      "province": "gauteng",
+      "field": "Finance",
+      "description": "24-month CA training contract pathway with rotations through audit, tax and advisory.",
+      "closingDate": "2026-09-30"
+    },
+    {
+      "id": "op-007",
+      "title": "Digital Marketing Internship",
+      "organisation": "Vuka Media",
+      "type": "internship",
+      "province": "westernCape",
+      "field": "Marketing",
+      "description": "Hands-on 6-month internship: social campaigns, content and analytics for local brands.",
+      "closingDate": "2026-08-05"
+    },
+    {
+      "id": "op-008",
+      "title": "Electrical Engineering Learnership",
+      "organisation": "Phambili Energy",
+      "type": "learnership",
+      "province": "mpumalanga",
+      "field": "Engineering",
+      "description": "18-month learnership at generation facilities. N3 or higher in electrical engineering required.",
+      "closingDate": "2026-08-22"
+    },
+    {
+      "id": "op-009",
+      "title": "Junior QA Tester",
+      "organisation": "Ikhaya Software",
+      "type": "juniorJob",
+      "province": "national",
+      "field": "Software Development",
+      "description": "Remote-first QA role: manual and automated testing of mobile releases. Curiosity and attention to detail over experience.",
+      "closingDate": "2026-07-18"
+    },
+    {
+      "id": "op-010",
+      "title": "Retail Management Graduate Programme",
+      "organisation": "Duma Stores",
+      "type": "graduateProgramme",
+      "province": "freeState",
+      "field": "Retail",
+      "description": "Fast-track store leadership programme with rotations across operations, buying and logistics.",
+      "closingDate": "2026-09-15"
+    },
+    {
+      "id": "op-011",
+      "title": "Cloud Engineering Internship",
+      "organisation": "Ubuntu Digital",
+      "type": "internship",
+      "province": "gauteng",
+      "field": "Software Development",
+      "description": "6-month internship on the cloud platform team: GCP, CI/CD pipelines and infrastructure as code.",
+      "closingDate": "2026-08-10"
+    },
+    {
+      "id": "op-012",
+      "title": "Junior Graphic Designer",
+      "organisation": "Kanya Studio",
+      "type": "juniorJob",
+      "province": "easternCape",
+      "field": "Design",
+      "description": "Entry-level design role: brand assets, social content and print. Portfolio required.",
+      "closingDate": null
+    }
+  ]
+}
